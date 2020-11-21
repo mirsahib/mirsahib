@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-[![Mir Sahib StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=2432289)](https://stackoverflow.com/users/2432289/mirsahib)
+[[Mir Sahib StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=2432289)](https://stackoverflow.com/users/2432289/mirsahib)
 
 
 - 🔭 I’m currently working on ...
