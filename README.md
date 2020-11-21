@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+[![Mir Sahib StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=2432289)](https://stackoverflow.com/users/2432289/mirsahib)
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
