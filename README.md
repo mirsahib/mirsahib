@@ -102,6 +102,7 @@
 
 <a href="http://www.github.com/mirsahib"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mirsahib&theme=react-dark" alt="GitHub Commits Graph" /></a>
 
+## :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#25](https://github.com/mirsahib/GroceWise/issues/25) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
 2. 🎉 Merged PR [#37](https://github.com/mirsahib/GroceWise/pull/37) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
