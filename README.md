@@ -3,7 +3,7 @@
 
 ## I'm a Full Stack Developer 🏏, Freelancer 👩‍💻, Gunner <img src="./img/gunner.svg" width="25" height="25" />,Open Source Contributor 🤝 and a Muslim ☪
 
-- 🔭 I’m currently working on [Ziplink](https://ziplink-template.vercel.app/)
+- 🔭 I’m currently working on [Ziplink](https://www.0li.pw/)
 - 🌱 I’m currently learning Nextjs,Remix and Supabase
 - 👯 I’m looking to collaborate with other open source contributor on React and React Native based project
 - 🤔 I’m looking for help with Networking and Lead Generation       
