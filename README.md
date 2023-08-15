@@ -5,29 +5,22 @@
 
 - 🔭 I’m currently working on [Ziplink](https://ziplink-template.vercel.app/)
 - 🌱 I’m currently learning Nextjs,Remix and Supabase
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...      
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 👯 I’m looking to collaborate with other open source contributor on React and React Native based project
+- 🤔 I’m looking for help with Networking and Lead Generation       
+- 💬 Ask me about React,React Native and Ml/AI
+- 📫 How to reach me: mirsahib24(TheBooringCoder)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools:
 
