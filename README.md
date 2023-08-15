@@ -83,3 +83,6 @@
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+
+---
+[![Mir Sahib's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirsahib)](https://github.com/mirsahib/github-readme-stats)
