@@ -88,4 +88,5 @@
 - [Add a SSH key for your github account](https://mirsahib24.medium.com/add-a-ssh-key-for-your-github-account-c8c4917f8710?source=rss-e9aea1cd1387------2)
 <!-- BLOG-POST-LIST:END -->
 
+## GitHub Stats
 [![Mir Sahib's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirsahib)](https://github.com/mirsahib/github-readme-stats)
