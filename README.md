@@ -103,3 +103,14 @@
 <a href="http://www.github.com/mirsahib"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mirsahib&theme=react-dark" alt="GitHub Commits Graph" /></a>
 
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#25](https://github.com/mirsahib/GroceWise/issues/25) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
+2. 🎉 Merged PR [#37](https://github.com/mirsahib/GroceWise/pull/37) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
+3. 💪 Opened PR [#37](https://github.com/mirsahib/GroceWise/pull/37) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
+4. 🎉 Merged PR [#36](https://github.com/mirsahib/GroceWise/pull/36) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
+5. 💪 Opened PR [#36](https://github.com/mirsahib/GroceWise/pull/36) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
+6. 🎉 Merged PR [#35](https://github.com/mirsahib/GroceWise/pull/35) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
+7. 🎉 Merged PR [#34](https://github.com/mirsahib/GroceWise/pull/34) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
+8. 💪 Opened PR [#34](https://github.com/mirsahib/GroceWise/pull/34) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
+9. 🎉 Merged PR [#33](https://github.com/mirsahib/GroceWise/pull/33) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
+10. 💪 Opened PR [#33](https://github.com/mirsahib/GroceWise/pull/33) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
+<!--END_SECTION:activity-->
