@@ -1,19 +1,15 @@
-### Hi there 👋
-
-**mirsahib/mirsahib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-[[Mir Sahib StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=2432289)](https://stackoverflow.com/users/2432289/mirsahib)
+# Hi there, I'm Mir Habib Ul Latif - aka Mir Sahib 👋 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+## I'm a Full Stack Developer 🏏, Freelancer 👩‍💻, Gunner <img src="./img/gunner.svg" width="25" height="25" />,Open Source Contributor 🤝 and a Muslim ☪
+
+- 🔭 I’m currently working on [Ziplink](https://ziplink-template.vercel.app/)
+- 🌱 I’m currently learning Nextjs,Remix and Supabase
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...      
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 ### Connect with me:
@@ -52,3 +48,20 @@ Here are some ideas to get you started:
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+
+<br />
+<br />
+
+
+
+
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
