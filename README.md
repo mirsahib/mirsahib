@@ -104,14 +104,14 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#291](https://github.com/producthunt/producthunt-api/issues/291#issuecomment-1684998374) in [producthunt/producthunt-api](https://github.com/producthunt/producthunt-api)
-2. 💪 Opened PR [#20](https://github.com/xparagon/flip2learn/pull/20) in [xparagon/flip2learn](https://github.com/xparagon/flip2learn)
-3. 🗣 Commented on [#71](https://github.com/remix-run/grunge-stack/issues/71#issuecomment-1683915536) in [remix-run/grunge-stack](https://github.com/remix-run/grunge-stack)
-4. 🔒 Closed issue [#25](https://github.com/mirsahib/GroceWise/issues/25) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
-5. 🎉 Merged PR [#37](https://github.com/mirsahib/GroceWise/pull/37) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
-6. 💪 Opened PR [#37](https://github.com/mirsahib/GroceWise/pull/37) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
-7. 🎉 Merged PR [#36](https://github.com/mirsahib/GroceWise/pull/36) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
-8. 💪 Opened PR [#36](https://github.com/mirsahib/GroceWise/pull/36) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
-9. 🎉 Merged PR [#35](https://github.com/mirsahib/GroceWise/pull/35) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
-10. 🎉 Merged PR [#34](https://github.com/mirsahib/GroceWise/pull/34) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
+1. 🗣 Commented on [#6](https://github.com/contentful/contentful-graphql-playground-app/issues/6#issuecomment-1687495613) in [contentful/contentful-graphql-playground-app](https://github.com/contentful/contentful-graphql-playground-app)
+2. 🗣 Commented on [#291](https://github.com/producthunt/producthunt-api/issues/291#issuecomment-1684998374) in [producthunt/producthunt-api](https://github.com/producthunt/producthunt-api)
+3. 💪 Opened PR [#20](https://github.com/xparagon/flip2learn/pull/20) in [xparagon/flip2learn](https://github.com/xparagon/flip2learn)
+4. 🗣 Commented on [#71](https://github.com/remix-run/grunge-stack/issues/71#issuecomment-1683915536) in [remix-run/grunge-stack](https://github.com/remix-run/grunge-stack)
+5. 🔒 Closed issue [#25](https://github.com/mirsahib/GroceWise/issues/25) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
+6. 🎉 Merged PR [#37](https://github.com/mirsahib/GroceWise/pull/37) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
+7. 💪 Opened PR [#37](https://github.com/mirsahib/GroceWise/pull/37) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
+8. 🎉 Merged PR [#36](https://github.com/mirsahib/GroceWise/pull/36) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
+9. 💪 Opened PR [#36](https://github.com/mirsahib/GroceWise/pull/36) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
+10. 🎉 Merged PR [#35](https://github.com/mirsahib/GroceWise/pull/35) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
 <!--END_SECTION:activity-->
