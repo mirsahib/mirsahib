@@ -1,6 +1,6 @@
 # Hi there, I'm Mir Habib Ul Latif - aka Mir Sahib 👋
 
-## I'm a Full Stack Developer 🏏, Freelancer 👩‍💻, Gunner <img src="./img/gunner.svg" width="25" height="25" />,Open Source Contributor 🤝 and a Muslim ☪
+## I'm a Full Stack Developer 🏏, Gunner <img src="./img/gunner.svg" width="25" height="25" />,Open Source Contributor 🤝 and a Muslim ☪
 
 -   🔭 I’m currently working on [Ziplink](https://www.0li.pw/)
 -   🌱 I’m currently learning Nextjs,Remix and Supabase
