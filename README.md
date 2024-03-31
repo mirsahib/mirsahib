@@ -104,12 +104,12 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/HussainArif12/localization-remix/pull/1) in [HussainArif12/localization-remix](https://github.com/HussainArif12/localization-remix)
-2. 🗣 Commented on [#6](https://github.com/contentful/contentful-graphql-playground-app/issues/6#issuecomment-1687495613) in [contentful/contentful-graphql-playground-app](https://github.com/contentful/contentful-graphql-playground-app)
-3. 🗣 Commented on [#291](https://github.com/producthunt/producthunt-api/issues/291#issuecomment-1684998374) in [producthunt/producthunt-api](https://github.com/producthunt/producthunt-api)
-4. 💪 Opened PR [#20](https://github.com/xparagon/flip2learn/pull/20) in [xparagon/flip2learn](https://github.com/xparagon/flip2learn)
-5. 🗣 Commented on [#71](https://github.com/remix-run/grunge-stack/issues/71#issuecomment-1683915536) in [remix-run/grunge-stack](https://github.com/remix-run/grunge-stack)
-6. 🔒 Closed issue [#25](https://github.com/mirsahib/GroceWise/issues/25) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
+1. ❗ Opened issue [#6](https://github.com/mirsahib/Project-GenAI/issues/6) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
+2. ❗ Opened issue [#5](https://github.com/mirsahib/Project-GenAI/issues/5) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
+3. ❗ Opened issue [#4](https://github.com/mirsahib/Project-GenAI/issues/4) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
+4. ❗ Opened issue [#3](https://github.com/mirsahib/Project-GenAI/issues/3) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
+5. ❗ Opened issue [#2](https://github.com/mirsahib/Project-GenAI/issues/2) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
+6. ❗ Opened issue [#1](https://github.com/mirsahib/Project-GenAI/issues/1) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
 7. 🎉 Merged PR [#37](https://github.com/mirsahib/GroceWise/pull/37) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
 8. 💪 Opened PR [#37](https://github.com/mirsahib/GroceWise/pull/37) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
 9. 🎉 Merged PR [#36](https://github.com/mirsahib/GroceWise/pull/36) in [mirsahib/GroceWise](https://github.com/mirsahib/GroceWise)
