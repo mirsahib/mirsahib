@@ -104,8 +104,8 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2519](https://github.com/FaridSafi/react-native-gifted-chat/issues/2519#issuecomment-2316755337) in [FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
-2. 🗣 Commented on [#10962](https://github.com/expo/expo/issues/10962#issuecomment-2143385055) in [expo/expo](https://github.com/expo/expo)
+1. 🗣 Commented on [#2528](https://github.com/FaridSafi/react-native-gifted-chat/issues/2528#issuecomment-2351365180) in [FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
+2. 🗣 Commented on [#2519](https://github.com/FaridSafi/react-native-gifted-chat/issues/2519#issuecomment-2316755337) in [FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
 3. 🗣 Commented on [#638](https://github.com/mrousavy/react-native-mmkv/issues/638#issuecomment-2050981420) in [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv)
 4. 🗣 Commented on [#5](https://github.com/xparagon/hessdalen/issues/5#issuecomment-2038979524) in [xparagon/hessdalen](https://github.com/xparagon/hessdalen)
 5. ❗ Opened issue [#6](https://github.com/mirsahib/Project-GenAI/issues/6) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
