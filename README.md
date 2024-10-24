@@ -8,7 +8,6 @@
 -   🤔 I’m looking for help with Networking and Lead Generation
 -   💬 Ask me about React,React Native and Ml/AI
 -   📫 How to reach me: mirsahib24(TheBooringCoder)
--   😄 Pronouns: He/Him
 
 ### Connect with me:
 
