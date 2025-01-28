@@ -103,14 +103,14 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2530](https://github.com/FaridSafi/react-native-gifted-chat/pull/2530#issuecomment-2352032216) in [FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
-2. 🗣 Commented on [#2528](https://github.com/FaridSafi/react-native-gifted-chat/issues/2528#issuecomment-2351365180) in [FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
-3. 🗣 Commented on [#2519](https://github.com/FaridSafi/react-native-gifted-chat/issues/2519#issuecomment-2316755337) in [FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
-4. 🗣 Commented on [#5](https://github.com/xparagon/hessdalen/issues/5#issuecomment-2038979524) in [xparagon/hessdalen](https://github.com/xparagon/hessdalen)
-5. ❗ Opened issue [#6](https://github.com/mirsahib/Project-GenAI/issues/6) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
-6. ❗ Opened issue [#5](https://github.com/mirsahib/Project-GenAI/issues/5) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
-7. ❗ Opened issue [#4](https://github.com/mirsahib/Project-GenAI/issues/4) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
-8. ❗ Opened issue [#3](https://github.com/mirsahib/Project-GenAI/issues/3) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
-9. ❗ Opened issue [#2](https://github.com/mirsahib/Project-GenAI/issues/2) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
-10. ❗ Opened issue [#1](https://github.com/mirsahib/Project-GenAI/issues/1) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
+1. 🎉 Merged PR [#9](https://github.com/mirsahib/Project-GenAI/pull/9) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
+2. 💪 Opened PR [#9](https://github.com/mirsahib/Project-GenAI/pull/9) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
+3. 🎉 Merged PR [#8](https://github.com/mirsahib/Project-GenAI/pull/8) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
+4. 💪 Opened PR [#8](https://github.com/mirsahib/Project-GenAI/pull/8) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
+5. 🎉 Merged PR [#7](https://github.com/mirsahib/Project-GenAI/pull/7) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
+6. 💪 Opened PR [#7](https://github.com/mirsahib/Project-GenAI/pull/7) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
+7. 🔒 Closed issue [#6](https://github.com/mirsahib/Project-GenAI/issues/6) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
+8. 🔒 Closed issue [#5](https://github.com/mirsahib/Project-GenAI/issues/5) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
+9. 🔒 Closed issue [#4](https://github.com/mirsahib/Project-GenAI/issues/4) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
+10. 🔒 Closed issue [#3](https://github.com/mirsahib/Project-GenAI/issues/3) in [mirsahib/Project-GenAI](https://github.com/mirsahib/Project-GenAI)
 <!--END_SECTION:activity-->
