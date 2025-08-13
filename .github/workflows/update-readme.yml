@@ -1,8 +1,10 @@
 name: Update README
+
 on:
   schedule:
-    - cron: "0 0 * * * "
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
 jobs:
   build:
     name: Update this repo's README with recent activity
@@ -12,9 +14,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+      - name: Set current date and time
+        id: datetime
+        run: echo "CURRENT_DATETIME=$(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_ENV
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "Update README.md with recent activity"
+          COMMIT_MSG: "Update README.md with recent activity on ${{ env.CURRENT_DATETIME }}"
           MAX_LINES: 10
